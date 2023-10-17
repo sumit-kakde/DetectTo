@@ -1,8 +1,5 @@
 # DetectTo
-DetectTo is a model which can be used by Radiologist to diagnose tumor
-# Tumor Classification Model
-
-This model is designed to classify tumors as benign (0) or malignant (1) based on input data that represents various attributes of the tumors. Here's a brief overview of the steps involved:
+DetectTo is a model which can be used by Radiologist to diagnose tumor. DetectTo is designed to classify tumors as benign (0) or malignant (1) based on input data that represents various attributes of the tumors. Here's a brief overview of the steps involved:
 
 ## Data Preparation
 
